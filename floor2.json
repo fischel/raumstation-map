@@ -55,7 +55,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/somafm.com\/groovesalad.pls"
+                 "value":"sound.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
