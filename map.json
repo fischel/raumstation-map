@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/floor2"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/fischel.github.io\/raumstation-map\/floor2.json"
                 }],
          "type":"tilelayer",
          "visible":false,
