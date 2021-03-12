@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/raumstation\/raumstation\/office"
                 }],
          "type":"tilelayer",
          "visible":true,
