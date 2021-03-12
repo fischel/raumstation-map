@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"floor2.json"
+                 "value":"floor2"
                 }],
          "type":"tilelayer",
          "visible":false,
